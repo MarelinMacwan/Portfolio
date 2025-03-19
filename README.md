@@ -1,6 +1,6 @@
 # Data Engineer
 
-#### 
+ 
 Data Engineer & Data Scientist with 3+ years of experience in building scalable data pipelines, ensuring data quality,
 and leveraging AWS, Azure, SQL, and Python. Skilled in ETL, real-time streaming, machine learning, LLMs, and
 analytics to drive business insights and optimize performance.
