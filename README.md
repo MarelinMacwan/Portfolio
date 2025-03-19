@@ -1,28 +1,45 @@
 # Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### 
+Data Engineer & Data Scientist with 3+ years of experience in building scalable data pipelines, ensuring data quality,
+and leveraging AWS, Azure, SQL, and Python. Skilled in ETL, real-time streaming, machine learning, LLMs, and
+analytics to drive business insights and optimize performance.
 
 ## Education
 							       		
-- Meng, Computer Engineering	| University of Guelph (_December 2019_)	 			        		
+- MEng., Computer Engineering |University of Guelph (_August 2024_)	 			        		
 
 
 ## Work Experience
-**Data Engineer @ Technoguide Infosoft (_ 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Graduate Teaching assistant @ University of Guelph (_January 2024 - August 2024_)**
+- Evaluated assignments, projects, and exams, ensuring accurate assessment and timely feedback.
+- Assisted students in implementing lexical analyzers, parsers, and code generators using C++ and Java,
+improving their practical coding skills.
+- Created supplementary learning materials and debugging guides, leading to a 15% increase in student
+performance based on course evaluations.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Engineer @ Technoguide Infosoft (_September 2019 - March 2023_)**
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- Automated data validation and cleansing processes, cutting manual efforts by 40% and improving data accuracy.
+- Implemented Azure DevOps for CI/CD, streamlining deployments and minimizing system downtime.
+- Led Agile stand-ups, mentored junior team members, and improved CCoE Cloud Portal workflows, boosting user
+engagement by 32%.
+- Developed and implemented a data warehousing solution on Azure, improving data storage efficiency and query
+performance by 25%.
+- Conducted performance tuning for SQL databases and Spark jobs, resulting in a 20% improvement in query and
+job execution times.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Intern @ Technoguide Infosoft (_January 2019 - August 2019_)**
+- Optimized SQL queries, improving data retrieval speed by 30% and ensuring more accurate data for analysis.
+- Assisted in redesigning the company’s database schema, resulting in improved data consistency and reduced
+retrieval errors.
+- Developed a Python-based ETL automation system that reduced manual data processing time by 40%.
+- Created a data reporting tool, enabling more efficient decision-making for the team and improving client
+management strategies.
+- Conducted performance testing on databases, identifying bottlenecks and recommending solutions to optimize
+system efficiency.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 
 
