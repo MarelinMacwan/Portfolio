@@ -7,7 +7,7 @@ analytics to drive business insights and optimize performance.
 
 ## Education
 							       		
- MEng., Computer Engineering | University of Guelph (_August 2024_)								       		
+ MEng. , Computer Engineering | University of Guelph (_August 2024_)								       		
           		
 
 
