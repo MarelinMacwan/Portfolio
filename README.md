@@ -7,9 +7,8 @@ analytics to drive business insights and optimize performance.
 
 ## Education
 							       		
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)            		
+- MEng., Computer Engineering | University of Guelph (_August 2024_)								       		
+          		
 
 
 ## Work Experience
