@@ -1,5 +1,5 @@
 title: Marelin Macwan
-logo: asset/Snapchat-1109498083.jpg
+logo: <img src="asset/Snapchat-1109498083.jpg" width="200" height="200" style="border-radius: 50%;">
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
