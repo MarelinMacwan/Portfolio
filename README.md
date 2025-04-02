@@ -40,7 +40,7 @@ management strategies.
 - Conducted performance testing on databases, identifying bottlenecks and recommending solutions to optimize
 system efficiency.
 
-## Work Experience
+## Projects
 Coming Soon!
 
 
